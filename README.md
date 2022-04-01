@@ -1,8 +1,7 @@
 # ft_printf - Reverse Engineer of the C printf function
 
-You will discover a popular and versatileCfunction:printf(). This exercise is a greatopportunity to improve your programming skills. It is of moderate difficulty.You will discovervariadic functionsinC.The key to a successfulft_printfis a well-structured and extensible code.
-
-You have to implement the following conversions:
+Recreating the versatile C function:printf() helped to understand how variadic functions work, a very useful skill to have.
+The Printf recreated function is work same as the original one in the standard library. It is tested and compared to the original and must implement the following conversions:
 
 • %c Prints a single character.
 
