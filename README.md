@@ -4,20 +4,20 @@ You will discover a popular and versatileCfunction:printf(). This exercise is a 
 
 You have to implement the following conversions:
 
-• %cPrints a single character.
+• %c Prints a single character.
 
-• %sPrints a string (as defined by the commonCconvention).
+• %s Prints a string (as defined by the commonCconvention).
 
-• %pThevoid *pointer argument has to be printed in hexadecimal format.
+• %p Thevoid *pointer argument has to be printed in hexadecimal format.
 
-• %dPrints a decimal (base 10) number.
+• %d Prints a decimal (base 10) number.
 
-• %iPrints an integer in base 10.
+• %i Prints an integer in base 10.
 
-• %uPrints an unsigned decimal (base 10) number.
+• %u Prints an unsigned decimal (base 10) number.
 
-• %xPrints a number in hexadecimal (base 16) lowercase format.
+• %x Prints a number in hexadecimal (base 16) lowercase format.
 
-• %XPrints a number in hexadecimal (base 16) uppercase format.
+• %X Prints a number in hexadecimal (base 16) uppercase format.
 
-• %%Prints a percent sign.
+• %% Prints a percent sign.
