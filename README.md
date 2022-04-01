@@ -20,3 +20,5 @@ The Printf recreated function is to work same as the original one in the standar
 • %X Prints a number in hexadecimal (base 16) uppercase format.
 
 • %% Prints a percent sign.
+
+To get up and running, clone the repo and also one of the testing repos for ft_printf. The one I used was at https://github.com/Tripouille/printfTester
