@@ -1,7 +1,7 @@
 # ft_printf - Reverse Engineer of the C printf function
 
 Recreating the versatile C function:printf() helped to understand how variadic functions work, a very useful skill to have.
-The Printf recreated function is work same as the original one in the standard library. It is tested and compared to the original and must implement the following conversions:
+The Printf recreated function is to work same as the original one in the standard library. It is tested and compared to the original and must implement the following conversions:
 
 • %c Prints a single character.
 
